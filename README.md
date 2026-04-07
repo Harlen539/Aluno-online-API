@@ -257,28 +257,28 @@ http://localhost:8080
 
 ### 🔎 Insomnia — CRUD de Aluno
 
-* Criar aluno → `assets/print-insomnia-aluno-criar.png`
-* Listar alunos → `assets/print-insomnia-aluno-listar.png`
-* Buscar por ID → `assets/print-insomnia-aluno-buscar.png`
-* Atualizar aluno → `assets/print-insomnia-aluno-atualizar.png`
-* Excluir aluno → `assets/print-insomnia-aluno-excluir.png`
+* Criar aluno → `imagens/print-insomnia-aluno-criar.png`
+* Listar alunos → `imagens/print-insomnia-aluno-listar.png`
+* Buscar por ID → `imagens/print-insomnia-aluno-buscar.png`
+* Atualizar aluno → `imagens/print-insomnia-aluno-atualizar.png`
+* Excluir aluno → `imagens/print-insomnia-aluno-excluir.png`
 
 ---
 
 ### 🔎 Insomnia — CRUD de Professor
 
-* Criar professor → `assets/print-insomnia-professor-criar.png`
-* Listar professores → `assets/print-insomnia-professor-listar.png`
-* Buscar por ID → `assets/print-insomnia-professor-buscar.png`
-* Atualizar professor → `assets/print-insomnia-professor-atualizar.png`
-* Excluir professor → `assets/print-insomnia-professor-excluir.png`
+* Criar professor → `imagens/print-insomnia-professor-criar.png`
+* Listar professores → `imagens/print-insomnia-professor-listar.png`
+* Buscar por ID → `imagens/print-insomnia-professor-buscar.png`
+* Atualizar professor → `imagens/print-insomnia-professor-atualizar.png`
+* Excluir professor → `imagens/print-insomnia-professor-excluir.png`
 
 ---
 
 ### 🗄️ DBeaver
 
-* Tabela de alunos → `assets/print-dbeaver-1.png`
-* Tabela de professores → `assets/print-dbeaver-2.png`
+* Tabela de alunos → `imagens/print-dbeaver-1.png`
+* Tabela de professores → `imagens/print-dbeaver-2.png`
 
 ---
 

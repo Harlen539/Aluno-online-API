@@ -303,5 +303,3 @@ Este projeto demonstra a construção de uma API REST completa com **Spring Boot
 
 ```
 
-Só falar 👍
-```
